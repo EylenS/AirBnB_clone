@@ -1,0 +1,16 @@
+header {
+    height: 70px;
+    width: 100%;
+    background-color: white;
+    border-bottom: 1px #CCCCCC;
+    display: flex;
+    align-items: center;
+}
+/* Inspect accesibility properties-relations */
+header .logo {
+    height: 60px;
+    width: 142px;
+    background: url("../images/logo.png") no-repeat;
+    position: absolute;
+    padding-left: 20px;
+}
